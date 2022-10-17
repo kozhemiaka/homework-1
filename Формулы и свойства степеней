@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+
+<title>Формулы и свойства степеней</title>
+
+</head>
+
+<body style="width: 500px; margin:auto; font-size: 14px; font-family: Calibri, sans-serif">
+
+    <p>
+    	    <i>Формулы и свойства степеней</i> 
+    </p>
+
+    <p>
+        <strong>Свойства и формулы степеней</strong> используются при сокращении и упрощении<br /> сложных выражений&#130; при <a href="#">решении уравнений</a> и неравенств&#046; Свойства степеней<br /> можно использовать совместно с  <a href="#">таблицей степеней</a> и <a href="#">таблицей умножения</a>&#046;
+    </p>
+
+    <p>
+    	<center>a<sup><strong>1</sup></strong> &#61; а&#130; a<sup><strong>0</sup></strong> &#61; 1 &#40;a &#8800; 0&#41;&#130; a<sup><strong>&minus;n</sup></strong> &#61; 1&#47;a<sup><strong>n</sup></strong>&#046;</center>
+    </p>
+    <p>
+            
+    <pre>    <strong>&#149;</strong>   a<sup><strong>m</sup></strong>a<sup><strong>n</sup></strong> &#61; a<sup><strong>m&#043;n</sup></strong>&#059;
+    <strong>&#149;</strong>   a<sup><strong>m</sup></strong>&#47;a<sup><strong>n</sup></strong> &#61; a<sup><strong>m&minus;n</sup></strong>&#059; 
+    <strong>&#149;</strong>   &#40;ab&#41;<sup><strong>n</sup></strong> &#61; a<sup><strong>n</sup></strong>b<sup><strong>n</sup></strong>&#059;
+    <strong>&#149;</strong>   &#40;a<sup><strong>m</sup></strong>&#41;<sup><strong>n</sup></strong> &#61; a<sup><strong>mn</sup></strong>&#059;
+    <strong>&#149;</strong>   &#40;a&#47;b&#41;<sup><strong>n</sup></strong> &#61; a<sup><strong>n</sup></strong>&#47;b<sup><strong>n</sup></strong>&#046;</pre>
+
+        </p>
+    <p>
+       Если после изучения данного теоретического материала &#40;Формулы и свойства<br /> степеней&#41; у Вас возникли проблемы при решении задач на данную тему или<br /> появились вопросы образовательного характера&#130; то Вы всегда можете задать их<br /> на нашем <a href="#">форуме</a>&#046; 
+   </p>
+
+
+
+</body>
+</html>
