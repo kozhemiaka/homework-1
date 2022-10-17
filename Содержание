@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+
+<title>Содержание</title>
+
+</head>
+<style>
+	h1 {
+    font-weight: normal; 
+   } 
+   a {
+text-decoration: none; 
+	</style>
+
+<body style="width: 500px; margin:auto; font-family: 'Arial'">
+	<br></br>
+	<h1 style=" font-size: 16px; text-align: center">Язык разметки HTML</h1>
+
+<span style=" font-size: 10px; text-align:center; ">
+<p>
+	Содержание
+</p>
+</span>
+<p>
+<pre>
+<strong>&#149;</strong><a target="_blank" href="#">   1 Общее представление</a>
+<strong>&#149;</strong><a target="_blank" href="#">   2 Браузеры</a>
+<strong>&#149;</strong><a target="_blank" href="#">   3 Версии</a>
+<strong>&#149;</strong><a target="_blank" href="#">   4 Перспективы</a>
+<strong>&#149;</strong><a target="_blank" href="#">   5 Структура HTML-документа</a> 
+     &#8728;<a target="_blank" href="#">   5.1 Варианты DOCTYPE для HTML 4.01</a>
+     &#8728;<a target="_blank" href="#">   5.2 Варианты DOCTYPE для HTML 5</a>
+<strong>&#149;</strong><a target="_blank" href="#">   6 Браузерные войны</a> 
+<strong>&#149;</strong><a target="_blank" href="#">   7 Примечания</a>
+<strong>&#149;</strong><a target="_blank" href="#">   8 См. также</a>
+<strong>&#149;</strong><a target="_blank" href="#">   9 Ссылки</a>
+<strong>&#149;</strong><a target="_blank" href="#">   10 Литература</a>
+    </pre>
+    </p>
